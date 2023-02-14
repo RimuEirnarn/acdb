@@ -1,0 +1,3 @@
+bs4
+argh
+https://github.com/RimuEirnarn/colorful_string/archive/refs/tags/v0.1.3.zip
